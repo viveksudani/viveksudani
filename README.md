@@ -1,9 +1,45 @@
-Welcome to my profile! I am an experienced Full Stack Software Engineer specializing in Python, React.js, and Vue.js. With a passion for driving innovation and efficiency, I consistently deliver high-quality solutions that meet business objectives.
+# Hi there, I'm Vivek! 👋
 
-Throughout my career, I have successfully designed, developed, and deployed software applications across various industries. My expertise lies in leveraging Python, React.js, and Vue.js to create robust and scalable solutions that optimize user experiences and streamline processes.
+I'm a Senior Full Stack Software Engineer with 5+ years of experience building scalable web applications and microservices. I love creating end-to-end solutions that make a real impact for businesses and users.
 
-I thrive in dynamic, collaborative environments where I can apply my problem-solving skills to overcome challenges and deliver exceptional results. My strong understanding of software development principles, coupled with my ability to adapt to evolving technologies, allows me to stay at the forefront of industry trends.
+## 🛠️ Technologies & Skills
 
-Beyond technical expertise, I am known for my strong communication and interpersonal skills, enabling me to effectively collaborate with cross-functional teams, stakeholders, and clients. I take pride in my ability to translate complex requirements into practical solutions and thrive in deadline-driven environments.
+**Backend Development:**
+- Python, Django, Flask
+- PHP & Laravel
+- Microservices Architecture
+- RESTful APIs
+- Celery & Background Tasks
+- Message Queues (RabbitMQ, Kafka)
 
-If you are seeking a dedicated professional who is passionate about delivering impactful software solutions, optimizing performance, and driving business growth, let's connect! I am open to new opportunities and look forward to discussing how I can contribute to your organization's success.
+**Frontend Development:**
+- React.js & Next.js
+- Vue.js & JavaScript
+- HTML5 & CSS3
+- WebSocket & Real-time Communication
+
+**Databases & Data:**
+- PostgreSQL, MySQL, Oracle
+- Redis (Caching)
+- Pandas (Data Processing)
+
+**Cloud & DevOps:**
+- Docker & Docker Compose
+- AWS (EC2, S3)
+- Git Version Control
+- OpenShift Ready Applications
+
+**Automation & Tools:**
+- Business Process Automation
+- Python Scripting
+- RPA Solutions (Selenium)
+- PowerShell Automation
+- SAP GUI Automation
+
+
+## 🤝 Let's Connect!
+I'm always interested in discussing new projects, sharing knowledge, or exploring opportunities. Feel free to reach out if you'd like to collaborate or just chat about web development!
+
+---
+
+"Building better web experiences, one line of code at a time" ✨
