@@ -1,6 +1,5 @@
 # Hi there, I'm Vivek! 👋
-
-I'm a Senior Full Stack Software Engineer with 5+ years of experience building scalable web applications and microservices. I love creating end-to-end solutions that make a real impact for businesses and users.
+I'm a Full Stack Software Engineer building scalable web applications and microservices. I love creating end-to-end solutions that make a real impact for businesses and users.
 
 ## 🛠️ Technologies & Skills
 
